@@ -14,3 +14,5 @@
 <img src="gradio1.PNG" />
 
 <img src="gradio2.PNG" />
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carloseduardocsf&repo=big_five_personality)(https://github.com/carloseduardocsf/big_five_personality)-->
